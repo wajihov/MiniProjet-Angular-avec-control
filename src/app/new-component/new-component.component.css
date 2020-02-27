@@ -1,0 +1,39 @@
+ .myStyle {
+     padding-top: 50px;
+ }
+
+ h1 {
+     color: #D5D4D6;
+     text-align: center;
+     padding-top: 50px;
+ }
+
+ .content {
+     background-color: #F8F8F8;
+     color: red;
+     height: 600px;
+     width: auto;
+     border-top-left-radius: 1em;
+     border-top-right-radius: 1em;
+     border-bottom-left-radius: 1em;
+     border-bottom-right-radius: 1em;
+ }
+
+ .myNavbar {
+     border-top-left-radius: 1em;
+     border-top-right-radius: 1em;
+     background-color: #F04848;
+ }
+
+ input {
+     width: 500px;
+     height: 40px;     
+     margin-left: 80px;
+     margin-right: 100px;
+     margin-top: 30px;
+ }
+
+ img{
+    padding-left: 80px;
+    z-index: 2;
+ }
